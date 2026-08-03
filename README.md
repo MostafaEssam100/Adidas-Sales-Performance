@@ -22,7 +22,7 @@ This project analyzes Adidas sales performance by transforming raw sales data in
 - Data Visualization
 
 ## Dashboard Preview
-![Adidas Dashboard](<img width="1369" height="755" alt="Screenshot 2026-08-03 171451" src="https://github.com/user-attachments/assets/baf74070-00da-447b-a652-c7348c4884a0" />
+![Adidas Dashboard](Screenshot 2026-08-03 171451.png
 )
 
 ## Business Insights
