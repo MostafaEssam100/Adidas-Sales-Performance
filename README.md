@@ -69,13 +69,7 @@ The goal is to uncover valuable business insights related to sales trends, profi
 ✔️ Trend analysis visuals  
 ✔️ Product & retailer performance analysis  
 ✔️ Regional sales insights  
-✔️ Interactive Decomposition Tree:
-
----
-
-## 📷 Dashboard Preview
-
-Screenshot 2026-08-03 171451.png
+✔️ Interactive Decomposition Tree
 
 ---
 
