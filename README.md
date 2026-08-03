@@ -75,7 +75,7 @@ The goal is to uncover valuable business insights related to sales trends, profi
 
 ## 📷 Dashboard Preview
 
-![Adidas Dashboard](Images/adidas_dashboard.png)
+Screenshot 2026-08-03 171451.png
 
 ---
 
