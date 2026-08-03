@@ -70,3 +70,31 @@ The goal is to uncover valuable business insights related to sales trends, profi
 ✔️ Product & retailer performance analysis  
 ✔️ Regional sales insights  
 ✔️ Interactive Decomposition Tree:
+
+---
+
+## 📷 Dashboard Preview
+
+![Adidas Dashboard](Images/adidas_dashboard.png)
+
+---
+
+## 💡 Key Insights
+
+- Analyzed Adidas sales performance and identified the main factors affecting revenue.
+- Discovered top-performing products and retailers contributing to overall sales.
+- Evaluated profitability through operating profit and profit margin analysis.
+- Compared sales methods to understand their impact on business performance.
+- Created an interactive dashboard that transforms raw data into actionable insights.
+
+---
+
+## 🚀 Project Outcome
+
+This dashboard provides a clear view of Adidas sales performance and helps business stakeholders monitor KPIs, identify opportunities, and make informed decisions based on data.
+
+---
+
+**Mostafa Essam**  
+Data Analyst | Power BI | SQL | Excel | Python
+
