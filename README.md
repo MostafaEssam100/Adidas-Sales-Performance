@@ -21,9 +21,10 @@ This project analyzes Adidas sales performance by transforming raw sales data in
 - Data Modeling
 - Data Visualization
 
+
 ## Dashboard Preview
 
-![Adidas Dashboard](adidas_dashboard.png)
+![Adidas Dashboard](Images/adidas_dashboard.png)
 
 ## Business Insights
 - Identified top-performing products and retailers.
