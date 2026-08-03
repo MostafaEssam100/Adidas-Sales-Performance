@@ -1,37 +1,72 @@
+ء# Adidas Sales Performance Dashboard 📊
 
+## 📌 Project Overview
 
-# Adidas Sales Performance Dashboard
+This project focuses on analyzing Adidas sales performance by transforming raw sales data into an interactive Power BI dashboard.
 
-## Project Overview
-This project analyzes Adidas sales performance by transforming raw sales data into an interactive Power BI dashboard that provides clear business insights and supports data-driven decision-making.
+The goal is to uncover valuable business insights related to sales trends, profitability, product performance, retailers, and regional performance to support data-driven decision-making.
 
-## Key Highlights
--  $90M Total Sales Analysis
--  Operating Profit & Profit Margin Analysis
--  Monthly Sales Trends
--  Top Products & Retailers Performance
--  Regional Sales Analysis
--  Interactive Decomposition Tree:
-  
+---
 
-## Tools & Skills
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Data Visualization
+## 🎯 Business Objectives
 
+- Analyze overall sales performance and revenue growth.
+- Identify top-performing products and retailers.
+- Understand sales trends over time.
+- Evaluate profitability and profit margins.
+- Compare different sales methods and their impact on revenue.
+- Provide an interactive dashboard for business users.
 
-## Dashboard Preview
+---
 
-![Adidas Dashboard](Images/adidas_dashboard.png)
+## 📊 Dashboard Highlights
 
-## Business Insights
-- Identified top-performing products and retailers.
-- Analyzed sales trends and profitability.
-- Compared sales methods to understand business performance.
-- Created an interactive dashboard for better decision-making.
+### Key Performance Indicators (KPIs)
 
-## Author
-Mostafa Essam  
-Data Analyst | Power BI | SQL | Excel | Python
+- 💰 **Total Sales:** $90M
+- 📈 **Operating Profit Analysis**
+- 📊 **Profit Margin Tracking**
+- 📦 **Units Sold Performance**
+- 🏆 **Top Products & Retailers**
+
+---
+
+## 🔍 Analysis Performed
+
+### Sales Analysis
+- Monthly sales trend analysis.
+- Revenue distribution across regions.
+- Sales performance comparison.
+
+### Product Analysis
+- Identifying best-selling products.
+- Comparing product contribution to total sales.
+
+### Retailer Analysis
+- Evaluating retailer performance.
+- Discovering major revenue contributors.
+
+### Sales Method Analysis
+- Comparing sales channels effectiveness.
+- Understanding customer purchasing patterns.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI**
+- **DAX**
+- **Power Query**
+- **Data Modeling**
+- **Data Visualization**
+
+---
+
+## 📈 Dashboard Features
+
+✔️ Interactive filters and slicers  
+✔️ Dynamic KPI cards  
+✔️ Trend analysis visuals  
+✔️ Product & retailer performance analysis  
+✔️ Regional sales insights  
+✔️ Interactive Decomposition Tree:
