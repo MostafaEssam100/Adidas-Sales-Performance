@@ -6,16 +6,13 @@
 This project analyzes Adidas sales performance by transforming raw sales data into an interactive Power BI dashboard that provides clear business insights and supports data-driven decision-making.
 
 ## Key Highlights
-- 💰 $90M Total Sales Analysis
-- 📈 Operating Profit & Profit Margin Analysis
-- 📅 Monthly Sales Trends
-- 🏆 Top Products & Retailers Performance
-- 🌎 Regional Sales Analysis
-- 🔍 Interactive Decomposition Tree:
-  - Sales Method
-  - Product
-  - State
-  - City
+-  $90M Total Sales Analysis
+-  Operating Profit & Profit Margin Analysis
+-  Monthly Sales Trends
+-  Top Products & Retailers Performance
+-  Regional Sales Analysis
+-  Interactive Decomposition Tree:
+  
 
 ## Tools & Skills
 - Power BI
