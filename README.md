@@ -1,6 +1,6 @@
-# Adidas-Sales-Performance
 
-# Adidas Sales Performance Dashboard 📊
+
+# Adidas Sales Performance Dashboard
 
 ## Project Overview
 This project analyzes Adidas sales performance by transforming raw sales data into an interactive Power BI dashboard that provides clear business insights and supports data-driven decision-making.
