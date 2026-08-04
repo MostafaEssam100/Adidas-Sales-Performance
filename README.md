@@ -18,6 +18,17 @@ The goal is to uncover valuable business insights related to sales trends, profi
 - Provide an interactive dashboard for business users.
 
 ---
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <img src="Screenshot%202026-08-03%20171451.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="Screenshot%202026-08-03%20173659.png" width="100%">
+</p>
+
+---
 
 ## 📊 Dashboard Highlights
 
